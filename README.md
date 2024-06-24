@@ -4,6 +4,7 @@
 une application web développée en PHP et MySQL qui permet aux utilisateurs de s'inscrire et de se connecter de manière sécurisée.
 le project et en cour de devloppment nest pas encore finit .
 ![Page De Connection](img.png)
+
 ## Fonctionnalités
 - **Inscription utilisateur**: Permet aux nouveaux utilisateurs de créer un compte avec un nom d'utilisateur unique et un mot de passe sécurisé.
 - **Connexion sécurisée**: Authentification des utilisateurs en vérifiant les informations de connexion par rapport à la base de données.
